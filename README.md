@@ -21,7 +21,7 @@ Learn how to integrate Signin with Google into your Firebase and Flutter app.
 
 |              App Preview             |             Course Preview           |
 | :----------------------------------: | :----------------------------------: |
-| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/website-df444.appspot.com/o/ad%2Fgithub_ad.png?alt=media&token=e04673a0-69e2-4950-a4ed-86f8527a5640" width="350"></a> |
+| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="preview.gif" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub_ad.png?alt=media" width="350"></a> |
 
 ➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
 
